@@ -1,0 +1,33 @@
+@import '../../generalStyles';
+
+.addItemForm {
+  display: flex;
+  margin-top: 20px;
+  button {
+    width: 100px;
+  }
+}
+
+.input {
+  flex: 1 1 auto;
+  margin: $margin;
+  box-sizing: border-box;
+  border: 2px solid #CCCCCC;
+  transition: 0.3s;
+  outline: none;
+  &:focus {
+    border: 2px solid #7a7a7a;
+  }
+}
+
+.errorInput {
+  border: 2px solid red;
+}
+
+.error {
+  color: red;
+  height: 20px;
+  font-size: 13px;
+  margin: $margin;
+}
+

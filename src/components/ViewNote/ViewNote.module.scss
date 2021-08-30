@@ -1,0 +1,14 @@
+@import '../../generalStyles';
+
+.viewNote {
+  margin: $margin;
+}
+
+.noteTitle {
+  font-weight: $font-weight;
+}
+
+.closeButton {
+  display: flex;
+  justify-content: center;
+}

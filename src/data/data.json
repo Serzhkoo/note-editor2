@@ -1,0 +1,20 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "JavaScript",
+      "body": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles."
+    },
+    {
+      "id": "2",
+      "title": "React",
+      "body": "As its official tagline states, React is a library for building user interfaces. React is not a framework – it's not even exclusive to the web. It's used with other libraries to render to certain environments. For instance, React Native can be used to build mobile applications; React 360 can be used to build virtual reality applications; and there are other possibilities besides."
+    },
+    {
+      "id": "3",
+      "title": "Redux",
+      "body": "Redux is a predictable state container for JavaScript apps.\n\nIt helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. You can use Redux together with React, or with any other view library. It is tiny (2kB, including dependencies), but has a large ecosystem of addons available."
+    }
+  ],
+  "tags": ["javascript", "react", "redux", "library", "the", "is", "a"]
+}

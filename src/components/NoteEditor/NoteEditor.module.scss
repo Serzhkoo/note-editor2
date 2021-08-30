@@ -1,0 +1,21 @@
+@import '../../generalStyles';
+
+.noteEditor {
+  width: $width;
+  min-width: $min-width;
+  margin: $margin;
+}
+
+.title {
+  font-weight: $font-weight;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.textarea {
+  box-sizing: border-box;
+  border: 2px solid #CCCCCC;
+}
